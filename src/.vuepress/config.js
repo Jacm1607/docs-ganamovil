@@ -37,11 +37,11 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'Documentación',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'extender',
           ]
         }
       ],
