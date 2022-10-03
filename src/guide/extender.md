@@ -8,8 +8,8 @@ Biblioteca de iconos SVG diseñados y mantenidos por el equipo de UI. Los inicio
 
  **Componente**       | **Icono**
 ----------------------|--------------------------------------------------------
- Agencies             | ![Svg](/docs-rn/agencies.svg)
- ArrowLeftArrowRigth  | ![Svg](/docs-rn/arrow-left-arrow-right.svg)
+ Agencies             | ![Svg](/docs-rn/svg/agencies.svg)
+ ArrowLeftArrowRigth  | ![Svg](/docs-rn/svg/arrow-left-arrow-right.svg)
  ArrowLeftRectangle   | ![Svg](/docs-rn/svg/arrow-left-rectangle.svg)
  AutoService          | ![Svg](/docs-rn/svg/auto-service.svg)                     
  BadBiometric         | ![Svg](/docs-rn/svg/bad-biometric.svg)                                 
