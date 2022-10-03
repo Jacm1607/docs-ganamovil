@@ -1,0 +1,14 @@
+<svg id="Componente_223_2" data-name="Componente 223 – 2" xmlns="http://www.w3.org/2000/svg" width="52.5" height="53.5" viewBox="0 0 52.5 53.5">
+  <circle id="Elipse_865" data-name="Elipse 865" cx="25" cy="25" r="25" transform="translate(1.25)" fill="rgba(151,192,32,0.24)"/>
+  <circle id="Elipse_864" data-name="Elipse 864" cx="15" cy="15" r="15" transform="translate(11.25 10)" fill="#97c020"/>
+  <g id="Componente_222_2" data-name="Componente 222 – 2" transform="translate(0 1)">
+    <g id="Grupo_6383" data-name="Grupo 6383">
+      <path id="Trazado_2946" data-name="Trazado 2946" d="M0,0H52.5V52.5H0Z" fill="none"/>
+      <g id="Grupo_6391" data-name="Grupo 6391" transform="translate(14 11)">
+        <path id="Trazado_2950" data-name="Trazado 2950" d="M0,0H24V24H0Z" fill="none"/>
+        <circle id="Elipse_861" data-name="Elipse 861" cx="4" cy="4" r="4" transform="translate(8 5)" fill="#fff" stroke="#97c020" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Trazado_2951" data-name="Trazado 2951" d="M6.168,22.115C6.676,18.484,8.234,16,10,16h4c1.769,0,3.328,2.49,3.834,6.127" transform="translate(-0.001 -2)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

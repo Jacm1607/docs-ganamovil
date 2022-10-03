@@ -1,0 +1,11 @@
+<svg id="Componente_266_1" data-name="Componente 266 – 1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Grupo_4825" data-name="Grupo 4825" transform="translate(1.413 1.413)">
+    <path id="Trazado_2402" data-name="Trazado 2402" d="M0,0H16.953V16.953H0Z" fill="none"/>
+    <path id="Trazado_2403" data-name="Trazado 2403" d="M8,7.119A2.316,2.316,0,0,1,10.472,5h.706a2.316,2.316,0,0,1,2.472,2.119,2.119,2.119,0,0,1-1.413,2.119,2.943,2.943,0,0,0-1.413,2.825" transform="translate(-2.349 -1.468)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Línea_453" data-name="Línea 453" transform="translate(8.587 13.587)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <g id="Elipse_769" data-name="Elipse 769" fill="none" stroke="#000" stroke-width="1">
+    <circle cx="10" cy="10" r="10" stroke="none"/>
+    <circle cx="10" cy="10" r="9.5" fill="none"/>
+  </g>
+</svg>
