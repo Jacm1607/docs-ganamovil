@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /icon.png
 tagline: 
 actionText: Empezar →
 actionLink: /guide/

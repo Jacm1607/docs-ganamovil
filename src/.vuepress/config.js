@@ -37,11 +37,12 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Documentación',
+          title: 'GanaMóvil',
           collapsable: false,
           children: [
             '',
             'extender',
+            'documentacion'
           ]
         }
       ],
