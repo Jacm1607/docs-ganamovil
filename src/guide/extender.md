@@ -8,7 +8,7 @@ Biblioteca de iconos SVG diseñados y mantenidos por el equipo de UI. Los inicio
 
  **Componente**       | **Icono**
 ----------------------|--------------------------------------------------------
- Agencies             | ![Svg](https://github.com/Jacm1607/docs-rn/blob/5df27fde941bd22c702a690bc4c73db840aa2901/src/.vuepress/public/svg/agencies.svg)
+ Agencies             | ![Svg](/agencies.svg)
  ArrowLeftArrowRigth  | ![Svg](/arrow-left-arrow-right.svg)
  ArrowLeftRectangle   | ![Svg](/svg/arrow-left-rectangle.svg)
  AutoService          | ![Svg](/svg/auto-service.svg)                     
